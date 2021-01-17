@@ -22,6 +22,8 @@
   "homepage": "https://github.com/feelonewong/volant-tpl#readme",
   "dependencies": {
     "commander": "^6.2.1",
-    "download-git-repo": "^3.0.2"
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5",
+    "open": "^7.3.1"
   }
 }
